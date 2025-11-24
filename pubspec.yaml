@@ -3,7 +3,7 @@ description: "A lightweight and fast Flutter plugin to compress images on Androi
 This package helps reduce image file size before uploading to servers, saving bandwidth and improving performance."
 version: 1.0.0
 homepage:
-  https://github:com/shirinshaikh290/image_compressor/tree/master:
+  "https://github:com/shirinshaikh290/image_compressor/tree/master:"
 
 environment:
   sdk: ^3.9.2
