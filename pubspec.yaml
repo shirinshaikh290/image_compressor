@@ -1,7 +1,9 @@
 name: image_compressor
-description: "A new Flutter project."
-version: 0.0.1
+description: "A lightweight and fast Flutter plugin to compress images on Android using native Kotlin code.
+This package helps reduce image file size before uploading to servers, saving bandwidth and improving performance."
+version: 1.0.0
 homepage:
+  https://github:com/shirinshaikh290/image_compressor/tree/master:
 
 environment:
   sdk: ^3.9.2

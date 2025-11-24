@@ -14,6 +14,10 @@ This package helps reduce image file size before uploading to servers, saving ba
 ✔️ Simple API — one method call
 ✔️ Returns compressed image bytes
 
+## Installation
+Add to pubspec.yaml:
+image_compressor: ^1.0.0
+
 📸 Example Usage
 
 Flutter Code
